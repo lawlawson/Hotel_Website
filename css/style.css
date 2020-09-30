@@ -74,6 +74,10 @@ p {
   background: #f7c08a;
 }
 
+.clr {
+  clear: both;
+}
+
 .btn:hover {
   background: #f7c08a;
   color: #333;
@@ -172,4 +176,12 @@ p {
 
 .box i {
   margin-bottom: 10px;
+}
+
+/* Footer */
+#main-footer {
+  text-align: center;
+  background: #444;
+  color: #fff;
+  padding: 20px;
 }
