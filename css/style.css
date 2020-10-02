@@ -78,6 +78,21 @@ p {
   clear: both;
 }
 
+.l-heading {
+  font-size: 40px;
+}
+
+/* Padding */
+.py-1 {
+  padding: 10px 0;
+}
+.py-2 {
+  padding: 20px 0;
+}
+.py-3 {
+  padding: 30px 0;
+}
+
 .btn:hover {
   background: #f7c08a;
   color: #333;
@@ -189,7 +204,15 @@ p {
   display: block;
   margin: auto;
   width: 70%;
+  border-radius: 50%;
 }
+
+#about-info .info-left {
+  float: left;
+  width: 50%;
+  min-height: 100%;
+}
+
 /* Footer */
 #main-footer {
   text-align: center;
