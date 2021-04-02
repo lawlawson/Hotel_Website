@@ -276,3 +276,6 @@ p {
   color: #fff;
   padding: 20px;
 }
+
+/* Mobile */
+@media (max-width: 768px);
